@@ -1,0 +1,11 @@
+.search{
+    background-color: whitesmoke !important;
+    border-color: rgb(175, 168, 168);
+    border-width: 1px !important;
+    border-style: solid;
+    color: rgb(90, 86, 86);
+    /* border: 5px black !important; */
+}
+.logo-icon{
+    color: black;
+}
