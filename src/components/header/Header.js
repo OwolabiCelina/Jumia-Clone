@@ -138,11 +138,11 @@ export default function PrimarySearchAppBar() {
             sx={{ display: { xs: 'none', md: 'flex' } }}
           >
             JUMIA
-            <StarsRoundedIcon className='logo-icon'  style={{ color: '#ff9100'}} />
+            <StarsRoundedIcon className='logo-icon'  style={{ color: '#ff9100', marginTop: '3px'}} />
           </Typography>
 
           <Search className='search'>
-            <SearchIcon style={{ color: 'inherit'}}/>
+            <SearchIcon style={{ color: 'inherit', marginLeft: '10px'}}/>
             <StyledInputBase
               placeholder="Search products, brands and categories"
               variant='outlined'

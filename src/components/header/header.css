@@ -4,6 +4,8 @@
     border-width: 1px !important;
     border-style: solid;
     color: rgb(90, 86, 86);
+    /* margin-top: 5px; */
+    margin-right: 15px;
     /* border: 5px black !important; */
 }
 .logo-icon{
